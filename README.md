@@ -38,4 +38,4 @@ To run the project and perform vehicle segmentation:
 * Explore the segmented groups and analyze the characteristics of each segment.
 
 ## Contributors
-Utkarsh Singh
+SS
